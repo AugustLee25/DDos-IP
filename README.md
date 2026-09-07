@@ -37,7 +37,7 @@ Thay vì sử dụng Threading truyền thống (tốn kém tài nguyên RAM), d
 
 ## 📊 Phân tích kết quả Test (Case Study)
 
-Dưới đây là kết quả thu được từ một đợt thử nghiệm thực tế nhắm vào mục tiêu `https://cruel.toys/maze/`.
+Dưới đây là kết quả thu được từ một đợt thử nghiệm thực tế nhắm vào mục tiêu `xxx`.
 
 ### 📉 Thông số cấu hình
 - **Concurrency:** 100 (Số lượng kết nối song song)
