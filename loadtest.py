@@ -15,7 +15,7 @@ from urllib.parse import urlparse
 import aiohttp
 
 # ------------------- CONFIG -------------------
-TARGET       = "https://cruel.toys/maze/" 
+TARGET       = "HTTP..." 
 DURATION     = 60                     # giây
 CONCURRENCY  = 100                    # số coroutine song song (tăng để overload)
 RAMP_UP      = 10                     # giây tăng dần lên đủ CONCURRENCY (0 = full ngay)
